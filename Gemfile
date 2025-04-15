@@ -61,4 +61,5 @@ group :test do
   gem "factory_bot_rails"
 end
 
-gem "awesome_print", require: "awesome_print"
+gem "debug"
+gem "amazing_print"
